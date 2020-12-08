@@ -18,6 +18,7 @@ Meghan Luoma, Kirby Miller, Sara Riggs, Alicia Perez, and Kerry Wehner
 
 ## Overview 
 The purpose of this project is to determine if there is a correlation between crime and hotel rating. 
+
 Question 1: Are hotel ratings lower in areas with a higher crime rating?  
 Question 2:    
 Question 3:  
