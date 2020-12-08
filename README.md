@@ -17,9 +17,11 @@ Meghan Luoma, Kirby Miller, Sara Riggs, Alicia Perez, and Kerry Wehner
 
 ## Overview 
 The purpose of this project is to determine if there is a correlation between crime and hotel rating. 
-Question 1: Are hotel ratings lower in areas with a higher crime rating?
-Question 2: 
-Question 3:
+Question 1: Are hotel ratings lower in areas with a higher crime rating?  
+Question 2:    
+Question 3:  
+
+The goal of our project is determine if there is a correlation between violent crimes and hotel ratings. Our hypothesis is that a hotel will have a lower rating in areas where the crime rate is higher. We will analyize crime and hotel statistics from five different cities of similar populations. 
 
 ## Datasets: 
 * [Kansas City, Mo Crime Data](https://data.kcmo.org/Crime/KCPD-Crime-Data-2019/pxaa-ahcm/data)
@@ -37,8 +39,6 @@ Sara - API dataset pull<br>
 Kirby - Crimeometer data pull, Matplotlib<br>
 Kerry - Matplotlib<br>
 Meghan - linear regression<br>
-
-The goal of our project is determine if there is a correlation between violent crimes and hotel ratings. Our hypothesis is that a hotel will have a lower rating in areas where the crime rate is higher. We will analyize crime and hotel statistics from five different cities of similar populations. 
 
 ## Technologies
 Project is created with:  
