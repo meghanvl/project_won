@@ -17,11 +17,11 @@ Is there any correlation between crime and hotel rating?
 Meghan Luoma, Kirby Miller, Sara Riggs, Alicia Perez, and Kerry Wehner  
 
 ## Overview 
-The purpose of this project is to determine if there is a correlation between crime and hotel rating. 
+The purpose of this project is to determine if there is a correlation between crime and hotel rating in Kansas City, MO; Chicago, IL; Denver, CO; Portland, OR; and Charlottesville, VA. 
 
-Question 1: Are hotel ratings lower in areas with a higher crime rating?  
-Question 2:    
-Question 3:  
+Question 1: What is the crime rate of each city?
+Question 2: What are the hotel ratings for each city?   
+Question 3: Are hotel ratings lower in areas with a higher crime rating? 
 
 Our hypothesis is that a hotel will have a lower rating in areas where the crime rate is higher. We will analyize crime and hotel statistics from five different cities of similar populations. 
 
