@@ -1,5 +1,3 @@
-
-# Safe Travels:
 # Comparing Crime Rates & Hotel Ratings
 
 Is there any correlation between crime and hotel rating?  
