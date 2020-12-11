@@ -14,7 +14,7 @@ Is there any correlation between crime and hotel rating?
 ## Members:
 Meghan Luoma, Kirby Miller, Sara Riggs, Alicia Perez, and Kerry Wehner  
 
-##GitHub URL: 
+## GitHub URL: 
 https://github.com/meghanvl/project_won.git
 
 ## Overview 
