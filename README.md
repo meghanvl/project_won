@@ -14,8 +14,11 @@ Is there any correlation between crime and hotel rating?
 ## Members:
 Meghan Luoma, Kirby Miller, Sara Riggs, Alicia Perez, and Kerry Wehner  
 
+## GitHub URL: 
+https://github.com/meghanvl/project_won.git
+
 ## Overview 
-The purpose of this project is to determine if there is a correlation between crime and hotel ratings in Kansas City, MO; Chicago, IL; Denver, CO; Portland, OR; and Charlottesville, VA. 
+The purpose of this project is to determine if there is a correlation between crime and hotel ratings in Kansas City, MO; New Orleans, LA; Dallas, TX; Portland, OR; Charlottesville, VA; Chicago, IL; Denver, CO; Sioux Falls, SD; Las Vegas, NV; San Francisco, CA; Chattanooga, TN; and Boston, MA.  
 
 Question 1: What is the crime rate of each city?<br>
 Question 2: What are the hotel ratings for each city?   
@@ -30,6 +33,8 @@ Our hypothesis is that a hotel will have a lower rating in areas where the crime
 * [Portland, OR Crime Data](https://www.portlandoregon.gov/police/article/627228)
 * [Charlottesville, VA Crime Data](https://opendata.charlottesville.org/datasets/d1877e350fad45d192d233d2b2600156_6/data)
 * [Trip Advisor Hotel Reviews](https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews)
+* [City Coordinances](https://latitudelongitude.org/us/)
+* [Charlottesville, CA Coordinances](https://www.lat-long.com/Latitude-Longitude-1498463-Virginia-Charlottesville.html)
 
 
 ## Tasks
