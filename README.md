@@ -30,7 +30,7 @@ Our hypothesis is that a hotel will have a lower rating in areas where the crime
 * [Crime Data](https://crime-data-explorer.fr.cloud.gov/api)
 * [Population Data](https://github.com/CommerceDataService/census-wrapper)
 * [Population Labels](https://gist.github.com/afhaque/60558290d6efd892351c4b64e5c01e9b)
-* [Hotel Reviews](https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews)
+* [Hotel Reviews](https://maps.googleapis.com/maps/api/place/nearbysearch/json)
 * [City Coordinances](https://latitudelongitude.org/us/)
 * [Charlottesville, CA Coordinances](https://www.lat-long.com/Latitude-Longitude-1498463-Virginia-Charlottesville.html)
 
