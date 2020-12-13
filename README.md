@@ -18,7 +18,7 @@ Meghan Luoma, Kirby Miller, Sara Riggs, Alicia Perez, and Kerry Wehner
 https://github.com/meghanvl/project_won.git
 
 ## Overview 
-The purpose of this project is to determine if there is a correlation between crime and hotel ratings in Kansas City, MO; New Orleans, LA; Dallas, TX; Portland, OR; Charlottesville, VA; Chicago, IL; Denver, CO; Sioux Falls, SD; Las Vegas, NV; San Francisco, CA; Chattanooga, TN; and Boston, MA.  
+The purpose of this project is to determine if there is a correlation between crime and hotel ratings in Kansas City, MO; New Orleans, LA; Dallas, TX; Portland, OR; Charlottesville, VA; Chicago, IL; Denver, CO; Sioux Falls, SD; Las Vegas, NV; San Francisco, CA; Chattanooga, TN; and Boston, MA in 2019.  
 
 Question 1: What is the crime rate of each city?<br>
 Question 2: What are the hotel ratings for each city?   
