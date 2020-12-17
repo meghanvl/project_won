@@ -32,7 +32,7 @@ Hypothesis: Cities with greater populations will have higher crime rates than ci
 
 ## Datasets: 
 * [City Coordinates](https://latitudelongitude.org/us/)  
-* [Charlottesville, CA Coordinances](https://www.lat-long.com/Latitude-Longitude-1498463-Virginia-Charlottesville.html)  
+* [Charlottesville, VA Coordinates](https://www.lat-long.com/Latitude-Longitude-1498463-Virginia-Charlottesville.html)  
 * [FBI Crime Data Explorer API](https://crime-data-explorer.fr.cloud.gov/api)  
 * [ORI Lookup Table (provided by: ICPSR)](https://www.icpsr.umich.edu/files/NACJD/ORIs/STATESoris.html)  
 * [Crime Rate Calculation](https://oag.ca.gov/sites/all/files/agweb/pdfs/cjsc/prof10/formulas.pdf)
